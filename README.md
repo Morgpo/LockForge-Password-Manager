@@ -1,10 +1,11 @@
 # LockForge Password Manager
 
 Secure desktop password manager with Dropbox sync and encryption.
+Dropbox is required to run this program.
 
 ## Installation
 
-1. Download `LockForge.zip` and extract it
+1. Download `LockForge.zip` from the latest release and extract it
 2. Install Dropbox and sign in
 3. Run `LockForge.exe`
 
